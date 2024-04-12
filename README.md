@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wahib Barqawi</h1>
-<h3 align="center">A passionate full stack, and mobile developer</h3>
+<h3 align="center">A passionate full stack and mobile developer</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=she11fish&label=Profile%20views&color=0e75b6&style=flat" alt="she11fish" /></p>
 <link
