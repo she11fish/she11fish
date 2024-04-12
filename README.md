@@ -8,6 +8,7 @@
 />
 
 # Who am I
+
 👨‍🎓 A student at University of Toronto for CS </br>
 ❤️‍🔥 Fullstack and mobile development is my passion. I love working with Typescript, React, and React native </br>
 🌱 Thinking of getting more into Machine Learning, Data Analysis, and DevOps Engineering
@@ -20,7 +21,7 @@
     <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" /> </a>
     <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
     <img src="public/icons/bootstrap/bootstrap.svg" width="38px">
-    <img src="public/icons/c/C.svg" width="38px">
+    <img src="public/icons/c/c.svg" width="38px">
     <img src="public/icons/csharp/csharp.svg" width="38px">
     <img src="public/icons/css/css.svg" width="38px">
     <a target="_blank" rel="noreferrer">
