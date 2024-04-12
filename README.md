@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Wahib Barqawi</h1>
-<h3 align="center">A passionate full stack, mobile and machine learning developer</h3>
+<h3 align="center">A passionate full stack, and mobile developer</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=she11fish&label=Profile%20views&color=0e75b6&style=flat" alt="she11fish" /></p>
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
 />
-👨‍🎓 Student at University of Toronto for CS </br>
-❤️‍🔥 Fullstack is my passion. I love working with Typescript and React </br>
-🌱 Thinking of getting more into Machine Learning, Data Analysis, and Devops
+
+# Who am I
+👨‍🎓 A student at University of Toronto for CS </br>
+❤️‍🔥 Fullstack and mobile development is my passion. I love working with Typescript, React, and React native </br>
+🌱 Thinking of getting more into Machine Learning, Data Analysis, and DevOps Engineering
 
 <h3 align="left">Languages, Libraries, Frameworks and Tools</h3>
 <p align="left">
@@ -62,7 +64,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=she11fish&theme=dracula" alt="she11fish" /></p>
 
-Credits
+# Credits
 
 Made By Wahib
 
